@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a data science project at [MedTourEasy](https://medtoureasy.com/)
 - 🌱 I’m currently learning Data Engineering, Big Data, and Machine Learning on Google Cloud Platform 
 - 👯 I’m looking to collaborate on projects related data science and python
